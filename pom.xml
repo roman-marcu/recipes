@@ -18,5 +18,6 @@
         <module>maven-checkstyle</module>
         <module>archunit</module>
         <module>rewrite</module>
+      <module>aws-beanstalk-cd</module>
     </modules>
 </project>
